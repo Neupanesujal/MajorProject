@@ -1,0 +1,1 @@
+created a openmap shooting game that simulate through hardware, character can move, rotate, shoot and jump. Also trained enemy using reinforcement learning to track the player and shoot.
